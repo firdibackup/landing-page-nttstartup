@@ -15,7 +15,7 @@ export const eventConfig = {
     "NTT Startup Challenge 2026 is a startup challenge by NTT that connects startups and founders with strategic networks, industry insight, event access, and opportunities within the NTT ecosystem.",
   startDate: "2026-11-11",
   endDate: "2026-11-11",
-  registrationUrl: "https://www.ntt-startupchallenge.com/register",
+  registrationUrl: "https://www.eventbrite.hk/e/final-day-ntt-startup-challenge-2026-tickets-1986790310301",
   location: {
     name: "Jakarta",
     address: {

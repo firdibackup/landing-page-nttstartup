@@ -61,7 +61,7 @@ const structuredData = {
 };
 
 const infoEventLabel = "Learn More About NTT Startup Challenge 2026";
-const registrationLabel = "Startup Registration for NTT Startup Challenge";
+const registrationLabel = "Attend The Grand Final Day of NTT Startup Challenge 2026";
 
 const primaryButtonClass = cn(
   buttonVariants({ size: "lg" }),
@@ -153,7 +153,7 @@ export default function HomePage() {
               <div className="max-w-3xl">
                 <p className="section-eyebrow">Event Countdown</p>
                 <h2 className="mt-4 text-balance text-4xl font-extrabold uppercase  text-white sm:text-6xl">
-                  Registration Closes in
+                  COUNTDOWN TO GRAND FINAL DAY
                 </h2>
               </div>
               <p className="max-w-sm text-sm leading-7 text-[var(--text-muted)] sm:text-base">
