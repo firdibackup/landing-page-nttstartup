@@ -1,0 +1,18 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#050C1F"/>
+  <rect x="54" y="54" width="1092" height="522" rx="32" fill="url(#paint0_linear)" stroke="#1B2C4E"/>
+  <circle cx="131" cy="131" r="44" stroke="#256FB8" stroke-width="10"/>
+  <path d="M111 156V106H123L141 133V106H153V156H141L123 129V156H111Z" fill="#256FB8"/>
+  <text x="188" y="146" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="800">NTT Startup Challenge</text>
+  <text x="112" y="286" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="800">YOUR NEXT LEAP STARTS AT</text>
+  <text x="112" y="386" fill="#A2C9FF" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="800">NTT STARTUP CHALLENGE</text>
+  <text x="112" y="486" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="800">BIGGER, LOUDER, BOLDER</text>
+  <text x="112" y="544" fill="#B8C8E6" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600">Static landing page with countdown, about section, and registration CTA.</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="54" y1="54" x2="1146" y2="576" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071226"/>
+      <stop offset="0.56" stop-color="#0A1428"/>
+      <stop offset="1" stop-color="#10284A"/>
+    </linearGradient>
+  </defs>
+</svg>
