@@ -194,7 +194,7 @@ export default function HomePage() {
           </div>
         </section>
 
-        <section id="cta" className="border-t border-white/5 py-20 sm:py-24">
+        {/* <section id="cta" className="border-t border-white/5 py-20 sm:py-24">
           <div className="mx-auto max-w-7xl px-6 lg:px-8">
             <div className="rounded-[2rem] border border-[color:var(--line)] bg-[linear-gradient(135deg,#071226_0%,#0A1428_55%,#10284A_100%)] px-8 py-10 sm:px-12 sm:py-12">
               <div className="flex flex-col justify-center items-center gap-10 text-center">
@@ -222,7 +222,7 @@ export default function HomePage() {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
 
         <footer className="border-t border-white/5 py-8">
           <div className="mx-auto flex max-w-7xl flex-col gap-3 px-6 text-sm text-[var(--text-muted)] sm:flex-row sm:items-center sm:justify-between lg:px-8">
